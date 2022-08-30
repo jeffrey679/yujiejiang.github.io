@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Teaching Experience"
+permalink: /teaching/teaching_experience
+author_profile: true
+
+---
+
+{% include base_path %}
+
+
 ## Rice University
 
 - STAT 405/605: R for Data Science
