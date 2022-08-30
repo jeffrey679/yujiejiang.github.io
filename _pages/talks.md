@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Talks"
+title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 
 ---
 
 {% include base_path %}
-
-## Talks and presentations
 
 - **Tracking cancer evolution with whole-genome and whole-exome sequencing using reconstructed subclonal architecture**  
 26th International Conference on Research in Computational Molecular Biology (RECOMB), 2022
