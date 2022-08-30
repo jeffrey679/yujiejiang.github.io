@@ -11,9 +11,9 @@ title                    : "Yujie (Jeffrey) Jiang"
 title_separator          : "-"
 name                     : &name "Yujie (Jeffrey) Jiang"
 description              : &description "personal description"
-url                      : https://yujiejiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yujie-jiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jeffrey679/yujiejiang.github.io"
+repository               : "yujie-jiang/yujie-jiang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
