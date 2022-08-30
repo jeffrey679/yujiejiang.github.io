@@ -1,20 +1,8 @@
----
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
+## Rice University
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- STAT 405/605: R for Data Science
+  - Teaching Assistant, Spring 2020
+- STAT 518: Probability
+  - Teaching Assistant, Fall 2019
+- STAT 305: Introduction to Statistics for the Biosciences
+  - Teaching Assistant, Fall 2018 & Spring 2019
