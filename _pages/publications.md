@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
--   **Multiomics analyses reveal DARS1-AS1/YBX1-controlled post-transcriptional circuits promoting glioblastoma tumorigenesis/radioresistance** 
-    C. Zheng, Y. Wei, Q. Zhang, M. Sun, Y. Wang, J. Hou, P. Zhang, X. Lv, D. Su, **Y. Jiang**, J. Gumin, N. Sahni, and others (2023) 
-    Science Advances 9 (31), eadf3984
+-   **Multiomics analyses reveal DARS1-AS1/YBX1-controlled post-transcriptional circuits promoting glioblastoma tumorigenesis/radioresistance**  C. Zheng, Y. Wei, Q. Zhang, M. Sun, Y. Wang, J. Hou, P. Zhang, X. Lv, D. Su, **Y. Jiang**, J. Gumin, N. Sahni, and others (2023) Science Advances 9 (31), eadf3984
 
 -   **Novel anaplastic thyroid cancer PDXs and cell lines: Expanding preclinical models of genetic diversity**\
     A. Maniakas, Y. C. Henderson, H. Hei, and S. Peng, Y. Chen, **Y. Jiang**, S. Ji, M. Cardenas, and others. (2021)\
