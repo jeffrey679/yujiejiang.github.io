@@ -9,6 +9,10 @@ author_profile: true
     C. Zheng, Y. Wei, Q. Zhang, M. Sun, Y. Wang, J. Hou, P. Zhang, X. Lv, D. Su, **Y. Jiang**, J. Gumin, N. Sahni, and others (2023)\
     Science Advances 9 (31), eadf3984
 
+-   **Integrative analysis reveals the recurrent genetic etiologies in idiopathic pulmonary fibrosis**\
+    S. Guo, Y. Dong, C. Wang, **Y. Jiang**, R. Xiang, L. Liu, H. Luo, and L. Fan (2023)\
+    QJM: An International Journal of Medicine, hcad206
+
 -   **Novel anaplastic thyroid cancer PDXs and cell lines: Expanding preclinical models of genetic diversity**\
     A. Maniakas, Y. C. Henderson, H. Hei, and S. Peng, Y. Chen, **Y. Jiang**, S. Ji, M. Cardenas, and others. (2021)\
     The Journal of Clinical Endocrinology & Metabolism, 106(11), e4652-e4665

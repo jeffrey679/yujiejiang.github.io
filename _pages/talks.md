@@ -7,6 +7,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+- **Pan-cancer analysis of intra-tumor heterogeneity in 9,116 cancers using a novel regularized likelihood model**
+American Association for Cancer Research (AACR) Annual Meeting, 2023
+
+- **Tracking pan-cancer genomic evolution using a regularized likelihood model**
+ENAR, 2023
 
 - **Tracking cancer evolution with whole-genome and whole-exome sequencing using reconstructed subclonal architecture**  
 26th International Conference on Research in Computational Molecular Biology (RECOMB), 2022
